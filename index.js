@@ -9,7 +9,10 @@ const playlistList = document.getElementById('playlist-list');
 const addSongInput = document.getElementById('add-song-input');  //ref to input field for adding songs
 const addSongBtn = document.getElementById('add-song-btn');
 
-fetch ('http://localhost:3001/musicPlayer')
+fetch ('https://music-player-apk.onrender.com/musicPlayer')
+.then(response => response.json())
+.then ((json) => console.log(json))
+
 //This code snippet defines several functions to manage my music player functionality
 let currentTrackIndex = 0; //keeps track of the currently playing songfrom index zero..
 let playlist = []; //empty array that will hold info about the songin my playlist
