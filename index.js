@@ -21,6 +21,7 @@ function loadTrack(index) {
     updatePlaylistUI();
 
 }
+
 // function toggles the the playback state of the audio
 function playPause() {
     //conditional statement to evaluate the play/pause
@@ -29,7 +30,7 @@ function playPause() {
         // if the audio is paused, its starts playing and updates btn to 'pause'
         playPauseBtn.textContent = 'Pause';
     } else {
-        // viseversa happens here!
+        // viseversa happens here!...
         audioPlayer.pause();
         playPauseBtn.textContent = 'Play';
     }
