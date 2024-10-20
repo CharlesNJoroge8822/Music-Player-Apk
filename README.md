@@ -18,6 +18,7 @@ A simple music player application with features like playing, pausing, skipping 
     You can view the web live on PHASE1.MUSIC PLAYER
     Render: https://music-player-apk.onrender.com
     Github:  https://charlesnjoroge8822.github.io/Music-Player-Apk/
+    Powerpoint Slide: https://docs.google.com/presentation/d/165fc7-dZKi6LCzIuVe2s8PiwU59LZZMqQw2piRIIZdA/edit?usp=sharing
 
 ## Known Bugs
 
