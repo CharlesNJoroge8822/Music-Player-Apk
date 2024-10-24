@@ -2,7 +2,7 @@
 ## The app is my project
 ## Project Name: Music Player
 By Charles Njoroge
-Live server
+ Live server
 You can view the web live on mood tracker and journal 
 (1)github: https://charlesnjoroge8822.github.io/Music-Player-Apk/
 (2)render:  https://music-player-apk.onrender.com
